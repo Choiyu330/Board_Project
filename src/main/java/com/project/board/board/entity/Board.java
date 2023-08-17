@@ -1,4 +1,4 @@
-package com.project.board.board;
+package com.project.board.board.entity;
 
 import com.project.board.audit.Auditable;
 import lombok.Data;

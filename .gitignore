@@ -93,6 +93,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
+application.yml
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
